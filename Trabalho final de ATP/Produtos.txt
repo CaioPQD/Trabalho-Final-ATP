@@ -1,0 +1,5 @@
+Nome;qtd
+Tv;29
+Notebook;30
+Headset;60
+Giftcard;100

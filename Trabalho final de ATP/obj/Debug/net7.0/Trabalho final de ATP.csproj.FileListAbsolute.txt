@@ -1,0 +1,15 @@
+C:\Users\PQD\Desktop\Trabalho final de ATP\bin\Debug\net7.0\Trabalho final de ATP.exe
+C:\Users\PQD\Desktop\Trabalho final de ATP\bin\Debug\net7.0\Trabalho final de ATP.deps.json
+C:\Users\PQD\Desktop\Trabalho final de ATP\bin\Debug\net7.0\Trabalho final de ATP.runtimeconfig.json
+C:\Users\PQD\Desktop\Trabalho final de ATP\bin\Debug\net7.0\Trabalho final de ATP.dll
+C:\Users\PQD\Desktop\Trabalho final de ATP\bin\Debug\net7.0\Trabalho final de ATP.pdb
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.csproj.AssemblyReference.cache
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.AssemblyInfoInputs.cache
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.AssemblyInfo.cs
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.csproj.CoreCompileInputs.cache
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.dll
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\refint\Trabalho final de ATP.dll
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.pdb
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\Trabalho final de ATP.genruntimeconfig.cache
+C:\Users\PQD\Desktop\Trabalho final de ATP\obj\Debug\net7.0\ref\Trabalho final de ATP.dll

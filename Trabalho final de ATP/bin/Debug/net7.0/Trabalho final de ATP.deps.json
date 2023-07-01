@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Trabalho final de ATP/1.0.0": {
+        "runtime": {
+          "Trabalho final de ATP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho final de ATP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
